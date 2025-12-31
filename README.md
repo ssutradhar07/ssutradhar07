@@ -13,19 +13,6 @@ I am a **Computer Science & Engineering student** dedicated to bridging the gap 
 
 ---
 
-### 🌊 Expertise Highlights
-<div align="center">
-
-| 📊 Analytics & Engineering | 🎨 Design & Creative |
-| :--- | :--- |
-| Predictive Modeling & ML | UI/UX Research & Prototyping |
-| Exploratory Data Analysis | Visual Identity & Branding |
-| Database Architecture (SQL) | Motion & Interaction Design |
-
-</div>
-
----
-
 ### 🛠 Technical Ecosystem
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,12 +24,11 @@ I am a **Computer Science & Engineering student** dedicated to bridging the gap 
 
 ### 📊 Performance Analysis
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ssutradhar07&show_icons=true&theme=algolia&border_radius=10&title_color=0d9488&icon_color=0d9488" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssutradhar07&theme=algolia&border_radius=10&stroke=0d9488&ring=0d9488&fire=0d9488" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="72%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssutradhar07&layout=compact&theme=algolia&border_radius=10&title_color=0d9488" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ssutradhar07&show_icons=true&theme=tokyonight&border_radius=10&title_color=0d9488&icon_color=0d9488" alt="GitHub Stats" width="400" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssutradhar07&theme=tokyonight&border_radius=10&stroke=0d9488&ring=0d9488&fire=0d9488" alt="GitHub Streak" width="400" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssutradhar07&layout=compact&theme=tokyonight&border_radius=10&title_color=0d9488" alt="Top Languages" width="400" />
 </p>
 
 ---
@@ -59,5 +45,5 @@ I am a **Computer Science & Engineering student** dedicated to bridging the gap 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=20&pause=1000&color=0d9488&center=true&vCenter=true&width=400&lines=Turning+Data+into+Design+Excellence..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=20&pause=1000&color=0d9488&center=true&vCenter=true&width=400&lines=Refining+Data...+Designing+Futures..." />
 </p>
