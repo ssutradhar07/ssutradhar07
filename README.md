@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&pause=1000&color=0d9488&center=true&vCenter=true&width=600&lines=CSE+Student+at+Core;Data+Analysis+%26+ML+Enthusiast;UI-UX+%26+Visual+Designer" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-0d9488?style=flat-square" alt="Status Badge"/>
-</p>
-
 ---
 
 ### Professional Overview
@@ -39,14 +35,14 @@ I am a **Computer Science & Engineering student** dedicated to bridging the gap 
 
 ---
 
-### Performance Analytics (Fixed Errors)
+### 📊 Performance Analysis
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ssutradhar07&show_icons=true&theme=teal&border_radius=15&title_color=0d9488&icon_color=0d9488" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssutradhar07&theme=teal&border_radius=15&stroke=0d9488&ring=0d9488&fire=0d9488" />
+  <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=ssutradhar07&show_icons=true&theme=teal&border_radius=10&title_color=0d9488" />
+  <img width="48.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssutradhar07&theme=teal&border_radius=10&stroke=0d9488" />
 </p>
 
 <p align="center">
-  <img width="72%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssutradhar07&layout=compact&theme=teal&border_radius=15&title_color=0d9488" />
+  <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssutradhar07&layout=compact&theme=teal&border_radius=10&title_color=0d9488" />
 </p>
 
 ---
@@ -63,5 +59,5 @@ I am a **Computer Science & Engineering student** dedicated to bridging the gap 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=20&pause=1000&color=0d9488&center=true&vCenter=true&width=400&lines=Refining+Data...+Designing+Futures...✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=20&pause=1000&color=0d9488&center=true&vCenter=true&width=400&lines=Turning+Data+into+Design+Excellence..." />
 </p>
