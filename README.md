@@ -16,19 +16,30 @@ I am a **Computer Science & Engineering student** dedicated to bridging the gap 
 ### 🛠 Technical Ecosystem
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,github,vscode,figma,ps,ai,pr,pycharm&theme=light&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,github,vscode,figma,ps,ai,pr,pycharm&theme=dark&perline=6" />
   </a>
 </p>
 
 ---
 
-### 📊 Performance Analysis
+### 📊 Performance Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssutradhar07&show_icons=true&theme=tokyonight&border_radius=10&title_color=0d9488&icon_color=0d9488" alt="GitHub Stats" width="400" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssutradhar07&theme=tokyonight&border_radius=10&stroke=0d9488&ring=0d9488&fire=0d9488" alt="GitHub Streak" width="400" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssutradhar07&layout=compact&theme=tokyonight&border_radius=10&title_color=0d9488" alt="Top Languages" width="400" />
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ssutradhar07&show_icons=true&theme=tokyonight&border_radius=10&title_color=0d9488&icon_color=0d9488" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=ssutradhar07&theme=tokyonight&border_radius=10&stroke=0d9488&ring=0d9488&fire=0d9488" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br>
+        <img width="500" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ssutradhar07&layout=compact&theme=tokyonight&border_radius=10&title_color=0d9488" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
