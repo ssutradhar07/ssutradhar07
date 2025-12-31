@@ -1,59 +1,62 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ssutradhar07.ssutradhar07" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shovona%20Sutradhar&fontSize=50&animation=fadeIn&fontAlignY=35" />
+</p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shovona+Sutradhar!" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=CSE+Student+💻;Data+Analysis+Enthusiast+📊;UI/UX+%26+Graphics+Designer+🎨;Learning+Machine+Learning+🤖" />
+</p>
 
-<h3 align="center">CSE Student | Data Science Enthusiast</h3>
-
-<br/>
-
-<div align="center">
-  🔭 <b>Learning Data Analysis & ML</b><br><br>
-  🎨 <b>UX/UI Designer & Graphics Designer</b><br><br>
-  ⚡ Fun fact: <i>Creativity is intelligence having fun!</i><br><br>
-</div>
-
-<br/>
-
-<div align="center"> 
-  <a href="mailto:ssutradhar07@email.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<p align="center">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=ssutradhar07.ssutradhar07">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ssutradhar07.ssutradhar07&left_color=gray&right_color=blue" alt="visitor badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/ssutradhar07/" target="_blank">
+</p>
+
+---
+
+### 🚀 About Me
+- 🔭 **Focusing on:** Building data-driven insights and aesthetic designs.
+- 🌱 **Currently Learning:** Deep Learning and Advanced User Research.
+- ⚡ **Fun Fact:** I believe a good design is as important as a good algorithm!
+
+---
+
+### 🛠 Tech Stack & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,mysql,html,css,figma,ps,ai,pr,github,vscode,pycharm&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Activities & Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ssutradhar07&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssutradhar07&theme=tokyonight&border_radius=10" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssutradhar07&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+### 📫 Connect with me
+<p align="left">
+  <a href="mailto:apnar-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ssutradhar07">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</p>
 
-<hr/>
-
-<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,github,vscode,figma,ps,ai,mysql,pycharm" />
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br/>
-
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=ssutradhar07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ssutradhar07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssutradhar07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
-</div>
-
-<br/>
-<hr/>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+Connect+on+Linkedin!;Keep+Coding!+🚀" />
-</h3>
-
-<hr/>
+<p align="center">
+  <i>Keep exploring and keep creating! ✨</i>
+</p>
