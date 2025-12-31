@@ -1,69 +1,55 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Shovona%20Sutradhar&fontSize=70&animation=fadeIn&fontAlignY=35&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1f425f&height=150&section=header&text=Shovona%20Sutradhar&fontSize=45&fontAlignY=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=00FFD5&center=true&vCenter=true&width=600&lines=CSE+STUDENT+💻;DATA+ANALYSIS+ENTHUSIAST+📊;UI/UX+&amp;+GRAPHICS+DESIGNER+🎨;MACHINE+LEARNING+LEARNER+🤖" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=1f425f&center=true&vCenter=true&width=600&lines=CSE+Student;Data+Analysis+and+Machine+Learning;UI-UX+and+Graphics+Design" />
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ssutradhar07.ssutradhar07&left_color=black&right_color=00FFD5" alt="visitor badge"/>
-</p>
+<hr />
 
----
+### Professional Summary
+I am a Computer Science and Engineering student with a core focus on **Data Analysis** and **Machine Learning**. My expertise extends to **UI/UX Design** and **Graphics Design**, allowing me to combine analytical insights with user-centric visual solutions. I am committed to leveraging data to drive decision-making and creating intuitive digital experiences.
 
-### 💫 About Me
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <br />
-      ✨ <b>Focusing on:</b> Data-driven insights & aesthetic designs.<br /><br />
-      🌱 <b>Learning:</b> Deep Learning & Advanced User Research.<br /><br />
-      🎨 <b>Creative side:</b> I love creating visual identities and user-friendly interfaces.<br /><br />
-      📧 <b>Contact:</b> <a href="mailto:ssutradhar07@email.com">ssutradhar07@email.com</a>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndndndndndndndndndndndndndndndndndndndndndndnd&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="250" />
-    </td>
-  </tr>
-</table>
+**Core Competencies:**
+* **Technical:** Data Preprocessing, Predictive Modeling, Machine Learning Algorithms.
+* **Design:** User Interface Design, Visual Identity, Graphics Systems.
+* **Tools:** Python, SQL, Figma, Adobe Creative Suite.
 
----
+<hr />
 
-### 🛠 Tech Stack (Neon Style)
-<p align="center">
+### Technical Stack and Tools
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,mysql,html,css,figma,ps,ai,pr,github,vscode,pycharm&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,js,html,css,github,vscode,figma,ps,ai,pr&theme=light" />
   </a>
 </p>
 
----
+<hr />
 
-### 📊 GitHub Analysis (Glass Theme)
+### GitHub Statistics and Analysis
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ssutradhar07&show_icons=true&theme=transparent&title_color=00FFD5&text_color=ffffff&icon_color=00FFD5&border_color=00FFD5&border_radius=20" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssutradhar07&theme=transparent&currStreakNum=00FFD5&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&border=00FFD5&border_radius=20" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ssutradhar07&show_icons=true&theme=default&border_radius=5&title_color=1f425f&icon_color=1f425f" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssutradhar07&theme=default&border_radius=5&stroke=1f425f&ring=1f425f&fire=1f425f" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssutradhar07&layout=compact&theme=transparent&title_color=00FFD5&text_color=ffffff&border_color=00FFD5&border_radius=20" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssutradhar07&layout=compact&theme=default&border_radius=5&title_color=1f425f" />
 </p>
 
----
+<hr />
 
-### 🐍 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFD5&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+✨" />
-</p>
-
-<p align="center">
+### Contact Information
+<p align="left">
+  <a href="mailto:ssutradhar07@email.com">
+    <img src="https://img.shields.io/badge/Email-1f425f?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/ssutradhar07">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-1f425f?style=flat&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="right">
+  <i>Refining data, designing experiences.</i>
 </p>
